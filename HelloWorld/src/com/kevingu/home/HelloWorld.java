@@ -7,6 +7,7 @@ public class HelloWorld {
 	 */
 	static void PrintSomething(String str) {
 		System.out.print(str);
+		System.out.println(" ----- ");
 	}
 
 	public static void main(String[] args) {
@@ -18,7 +19,7 @@ public class HelloWorld {
 		i=4;
 		i=5;
 		PrintSomething("Hello World !!! "+i);
-
+		PrintSomething("Hello again");
 	}
 
 }
