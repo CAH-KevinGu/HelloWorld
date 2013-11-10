@@ -6,6 +6,7 @@ public class HelloWorld {
 	 * @param args
 	 */
 	static void PrintSomething(String str) {
+		NewLine();
 		System.out.print(str);
 		NewLine();
 	}
