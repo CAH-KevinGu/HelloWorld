@@ -5,6 +5,10 @@ public class HelloWorld {
 	/**
 	 * @param args
 	 */
+	static void PrintSomething(String str) {
+		System.out.print(str);
+	}
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int i=0;
@@ -13,7 +17,7 @@ public class HelloWorld {
 		i=3;
 		i=4;
 		i=5;
-		System.out.print("Hello World !!! "+i);
+		PrintSomething("Hello World !!! "+i);
 
 	}
 
