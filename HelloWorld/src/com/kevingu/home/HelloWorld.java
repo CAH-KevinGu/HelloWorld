@@ -21,5 +21,9 @@ public class HelloWorld {
 		PrintSomething("Hello World !!! "+i);
 		PrintSomething("Hello again");
 	}
+	
+	static void NewLine() {
+		System.out.println();
+	}
 
 }
