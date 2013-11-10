@@ -7,7 +7,7 @@ public class HelloWorld {
 	 */
 	static void PrintSomething(String str) {
 		System.out.print(str);
-		System.out.println(" ----- ");
+		NewLine();
 	}
 
 	public static void main(String[] args) {
