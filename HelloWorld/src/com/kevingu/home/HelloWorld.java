@@ -18,12 +18,8 @@ public class HelloWorld {
 		i=200;
 		i=3000;
 		i=40000;
-<<<<<<< HEAD
-		i=500002; // note here 123
-		i=6000003;
-=======
 		i=500002; // note here 123 abcdefg
->>>>>>> Test_Stash_01
+		i=6000003;
 		PrintSomething("Hello World !!! "+i);
 		PrintSomething("Hello again");
 	}
@@ -32,4 +28,5 @@ public class HelloWorld {
 		System.out.println();
 	}
 
+	// test force merge
 }
