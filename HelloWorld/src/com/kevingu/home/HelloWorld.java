@@ -29,4 +29,7 @@ public class HelloWorld {
 	}
 
 	// test force merge
+
+	// test force merge 2
+
 }

@@ -12,3 +12,5 @@ public class AnotherJava {
 		
 	}
 }
+
+	// test force merge 2

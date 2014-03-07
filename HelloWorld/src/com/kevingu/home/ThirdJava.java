@@ -1,5 +1,7 @@
 package com.kevingu.home;
 
-public class ThirdJava {
+	// test force merge 2
+
+	public class ThirdJava {
 
 }
