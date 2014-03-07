@@ -15,3 +15,5 @@ public class AnotherJava {
 	// before 3rd test force merge
 	// dev before 4th test force merge
 }
+
+// after reset head
