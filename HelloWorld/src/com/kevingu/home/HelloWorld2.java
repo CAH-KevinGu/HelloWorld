@@ -29,4 +29,6 @@ public class HelloWorld {
 	}
 
 	// test force merge
+
+// before 3rd test force merge
 }
