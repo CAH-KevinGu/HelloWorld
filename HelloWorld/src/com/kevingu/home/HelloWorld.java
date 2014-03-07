@@ -18,7 +18,7 @@ public class HelloWorld {
 		i=200;
 		i=3000;
 		i=40000;
-		i=500002; // note here 123
+		i=500002; // note here 123 abcdefg
 		PrintSomething("Hello World !!! "+i);
 		PrintSomething("Hello again");
 	}
