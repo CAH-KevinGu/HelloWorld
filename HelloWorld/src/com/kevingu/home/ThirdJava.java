@@ -1,9 +1,6 @@
 package com.kevingu.home;
-
-// dev before 3rd force merge	
-
-	// test force merge 2
-
-	public class ThirdJava {
+// before 3rd test force merge
+	//dev before 4th test force merge
+public class ThirdJava {
 
 }

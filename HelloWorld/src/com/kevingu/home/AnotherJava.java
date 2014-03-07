@@ -1,7 +1,5 @@
 package com.kevingu.home;
 
-// dev before 3rd force merge	
-
 public class AnotherJava {
 	void SayHello() {
 		String a ="ahdfdj";
@@ -13,6 +11,7 @@ public class AnotherJava {
 //		syso
 		
 	}
+	
+	// before 3rd test force merge
+	// dev before 4th test force merge
 }
-
-	// test force merge 2
