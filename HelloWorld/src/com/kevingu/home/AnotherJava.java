@@ -1,4 +1,5 @@
 package com.kevingu.home;
+// dev after master head is reset
 
 public class AnotherJava {
 	void SayHello() {
